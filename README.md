@@ -22,7 +22,7 @@ This Face Mask Detection App is designed to identify whether individuals are wea
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/face-mask-detection-app.git
+   git clone https://github.com/Rupanshu-Kapoor/Face-Mask-Detection.git
 
 2. Navigate to the project directory:
    ```
