@@ -44,7 +44,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 
 ## Contact
-For any questions or inquiries, please contact:
-
-Name: Rupanshu Kapoor
-Email: rupanshukapoor@outlook.com
+For any questions or inquiries, please contact me on: rupanshukapoor@outlook.com
